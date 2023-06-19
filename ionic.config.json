@@ -1,0 +1,7 @@
+{
+  "name": "camera webrtc app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
